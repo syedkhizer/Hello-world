@@ -1,3 +1,3 @@
 # Hello-world
 
-Hellow World program in Java
+Hello World program in Java
